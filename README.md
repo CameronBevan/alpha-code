@@ -10,5 +10,13 @@ This project is available on npm
 npm i alpha-code
 ```
 
+## Features
+Allows for remapping of character order to reduce readability.
+
+```
+['B', 'C', D', ...] could become ['Y', 'P', 'D', ...]
+```
+
+
 **Licence:** [ISC](https://opensource.org/licenses/ISC)
 
