@@ -21,20 +21,13 @@ const ac = require('alpha-code');
 Linear increment
 
 ```javascript
-ac.increment('SHWKLDS');
-```
-returns: 
-```
-SHWKLDT
+ac.increment('SHWKLDS'); // returns: SHWKLDT
 ```
 
 ```javascript
-ac.increment('CHDSLZ');
+ac.increment('CHDSLZ'); // returns: CHDSMB
 ```
-returns: 
-```
-CHDSMB
-```
+
 
 ## Features
 Allows for remapping of character order to reduce readability.
