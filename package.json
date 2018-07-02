@@ -1,0 +1,20 @@
+{
+  "name": "alpha-code",
+  "version": "0.0.0",
+  "description": "Simple unique code generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CameronBevan/alpha-code.git"
+  },
+  "keywords": [],
+  "author": "Cameron Bevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CameronBevan/alpha-code/issues"
+  },
+  "homepage": "https://github.com/CameronBevan/alpha-code#readme"
+}
