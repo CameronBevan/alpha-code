@@ -4,7 +4,7 @@
   "description": "Simple unique code generation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CameronBevan/alpha-code/issues"
   },
-  "homepage": "https://github.com/CameronBevan/alpha-code#readme"
+  "homepage": "https://github.com/CameronBevan/alpha-code#readme",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
 }
