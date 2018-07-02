@@ -1,6 +1,6 @@
 {
   "name": "alpha-code",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Simple unique code generation",
   "main": "index.js",
   "scripts": {
