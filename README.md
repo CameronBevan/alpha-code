@@ -13,8 +13,12 @@ npm i alpha-code
 ## Features
 Allows for remapping of character order to reduce readability.
 
-```
-['B', 'C', D', ...] could become ['Y', 'P', 'D', ...]
+```javascript
+charMap = ['B', 'C', 'D', '...' ];
+
+// could be set to:
+
+charMap = ['Y', 'P', 'D', '...' ];
 ```
 
 
